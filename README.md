@@ -7,4 +7,4 @@
 
 [Ej_Python_1751125.ipynb](http://localhost:8888/notebooks/Ej_Python_1751125.ipynb)
 
-[Limpieza de Base de Datos (https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ej_Limpieza_8.ipynb)
+[Limpieza de Base de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ej_Limpieza_8.ipynb)
