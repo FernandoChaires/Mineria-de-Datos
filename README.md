@@ -14,3 +14,8 @@ FASE I
 [Avance 1 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo8.ipynb)
 
  FASE II
+
+[PResentación Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Presentacion_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)
+
+* [Preguntas Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Preguntas_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)
+* [Ejemplo Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ejemplo_Metricas_de_Evaluacion_Eq8.ipynb)
