@@ -22,4 +22,5 @@ FASE I
 * [Preguntas y Respuestas Métricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Preguntas%26Respuestas_Metricas%20de%20Evaluaci%C3%B3n_Eq8.pdf)
 * [Práctica de Visualización de Base de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Visualizaci%C3%B3n_Equipo8%20.ipynb)
 * [Avance 2-PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb)
+* [Ejercicio de técnicas de Mineria](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
 
