@@ -23,4 +23,5 @@ FASE I
 * [Práctica de Visualización de Base de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Visualizaci%C3%B3n_Equipo8%20.ipynb)
 * [Avance 2-PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb)
 * [Ejercicio de técnicas de Mineria](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
+* [Cuaderno](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
 
