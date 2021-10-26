@@ -24,4 +24,6 @@ FASE I
 * [Avance 2-PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb)
 * [Ejercicio de técnicas de Mineria](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/TecnicasPIA_002_Equipo08%20.ipynb)
 * [Cuaderno](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
+* [PIA Póster](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/SE%20FUNDE%20UN%20FOCO.png)
+* [Árbol de Decisión](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/ARBOL_DECISION.png)
 
